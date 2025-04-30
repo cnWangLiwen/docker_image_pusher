@@ -7,3 +7,4 @@ telegraf
 grafana/grafana
 kapacitor
 nodered/node-red
+ibm-semeru-runtimes:open-17.0.14_7-jre
