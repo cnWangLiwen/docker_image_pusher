@@ -8,3 +8,4 @@ kapacitor
 nodered/node-red
 ibm-semeru-runtimes:open-17.0.14_7-jre
 cym1102/nginxwebui
+docker.n8n.io/n8nio/n8n
