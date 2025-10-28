@@ -11,3 +11,4 @@ cym1102/nginxwebui
 docker.n8n.io/n8nio/n8n
 timescale/timescaledb:latest-pg16
 ibm-semeru-runtimes:open-17.0.16_8-jdk
+openjdk:26-ea-17-jdk-slim
