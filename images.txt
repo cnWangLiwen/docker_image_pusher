@@ -13,3 +13,4 @@ cym1102/nginxwebui:latest
 redis:6
 postgres:latest
 docker.n8n.io/n8nio/n8n
+n8nio/n8n:1.122.2-arm64
